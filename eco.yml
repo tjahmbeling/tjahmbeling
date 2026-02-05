@@ -1,0 +1,14 @@
+apps:
+  - name: tjah-frankenphp
+    script: php
+    args: "artisan octane:start --server=frankenphp --port=8000 --workers=4 --max-requests=500"
+    cwd: /www/wwwroot/tjahmbeling.my.id/web-tjah
+    interpreter: none
+    autorestart: true
+    watch: false
+    max_memory_restart: 512M
+    env:
+      APP_ENV: local
+      APP_DEBUG: false
+      APP_URL: https://tjahmbeling.my.id
+      OCTANE_SERVER: frankenphp
