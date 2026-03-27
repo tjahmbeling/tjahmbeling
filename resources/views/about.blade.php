@@ -9,7 +9,10 @@
     @if($about)
       <div class="row">
         <div class="col-lg-4" data-aos="fade-right">
-          <img src="{{ $about->image ? Storage::url($about->image) : '/assets/img/me.png' }}" class="img-fluid" alt="" />
+          @php
+            $aboutImg = !empty($web->about_image) ? Storage::url($web->about_image) : ($about->image ? Storage::url($about->image) : '/assets/img/me.png');
+          @endphp
+          <img src="{{ $aboutImg }}" class="img-fluid" alt="" />
         </div>
         <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
           <h3>{{ $about->title }}</h3>

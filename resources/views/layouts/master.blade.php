@@ -53,6 +53,15 @@
             }, 800);
         });
     </script>
+
+    @if(isset($web) && $web->hero_image)
+    <style>
+        body::before {
+            background: #040404 url("{{ Storage::url($web->hero_image) }}") top right no-repeat !important;
+            background-size: cover !important;
+        }
+    </style>
+    @endif
 </head>
 
     @yield('content')
