@@ -45,7 +45,9 @@ class AboutResource extends Resource
                     ->schema([
                         Forms\Components\TextInput::make('label')->required(),
                         Forms\Components\TextInput::make('value')->required(),
+                        Forms\Components\TextInput::make('link')->nullable(),
                     ])
+                    ->columns(3)
                     ->columnSpanFull(),
                 Forms\Components\Repeater::make('skills')
                     ->schema([

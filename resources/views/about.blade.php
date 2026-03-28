@@ -32,7 +32,13 @@
                     <li>
                       <i class="bi bi-chevron-right"></i>
                       <strong>{{ $item['label'] }}:</strong>
-                      <span>{{ $item['value'] }}</span>
+                      <span>
+                        @if(!empty($item['link']))
+                          <a href="{{ $item['link'] }}" target="_blank" rel="noopener">{{ $item['value'] }}</a>
+                        @else
+                          {{ $item['value'] }}
+                        @endif
+                      </span>
                     </li>
                   @endforeach
                 </ul>
