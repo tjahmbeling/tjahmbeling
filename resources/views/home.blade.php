@@ -11,23 +11,23 @@
             <!-- <h2>I'm a passionate <span>illustrators</span> from Kediri</h2> -->
             <h2>
                 Saya seorang
-                <span class="typed" data-typed-items="Freelancer, Fotografer, Ilustrator"></span>
+                <span class="typed" data-typed-items="Freelancer, Fotografer, Ilustrator, Programmer"></span>
             </h2>
             <h2 class="mt-0">dari Kediri</h2>
             <!-- <p>I'm <span class="typed" data-typed-items="Designer, Developer, Freelancer, Photographer"></span></p> -->
 
             <nav id="navbar" class="navbar">
-                    <ul>
-                        <li><a class="nav-link active" href="#header">Beranda</a></li>
-                        <li><a class="nav-link" href="#about">Tentang</a></li>
-                        <li><a class="nav-link" href="#resume">Riwayat</a></li>
-                        <!-- <li><a class="nav-link" href="#services">Layanan</a></li> -->
-                        <!-- <li><a class="nav-link" href="#portfolio">Portofolio</a></li> -->
-                        <li><a class="nav-link" href="#articles">Artikel</a></li>
-                        <li><a class="nav-link" href="#contact">Kontak</a></li>
-                    </ul>
-                    <i class="bi bi-list mobile-nav-toggle"></i>
-                </nav>
+                <ul>
+                    <li><a class="nav-link active" href="#header">Beranda</a></li>
+                    <li><a class="nav-link" href="#about">Tentang</a></li>
+                    <li><a class="nav-link" href="#resume">Riwayat</a></li>
+                    <!-- <li><a class="nav-link" href="#services">Layanan</a></li> -->
+                    <!-- <li><a class="nav-link" href="#portfolio">Portofolio</a></li> -->
+                    <li><a class="nav-link" href="#articles">Artikel</a></li>
+                    <li><a class="nav-link" href="#contact">Kontak</a></li>
+                </ul>
+                <i class="bi bi-list mobile-nav-toggle"></i>
+            </nav>
             <!-- .navbar -->
 
             <div class="social-links">
