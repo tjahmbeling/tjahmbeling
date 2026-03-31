@@ -36,9 +36,7 @@ class AboutResource extends Resource
                 Forms\Components\TextInput::make('title')
                     ->required(),
                 Forms\Components\TextInput::make('subtitle'),
-                Forms\Components\FileUpload::make('image')
-                    ->image()
-                    ->directory('about'),
+
                 Forms\Components\Textarea::make('description')
                     ->columnSpanFull(),
                 Forms\Components\Repeater::make('details')
