@@ -5,14 +5,14 @@
     <meta charset="utf-8" />
     <meta content="width=device-width, initial-scale=1.0" name="viewport" />
 
-    <title>{{ $web->meta_title ?? '' }}</title>
-    <meta content="{{ $web->meta_description ?? '' }}" name="description" />
+    <title>@yield('meta_title', $web->meta_title ?? '')</title>
+    <meta name="description" content="@yield('meta_description', $web->meta_description ?? '')" />
     <meta property="og:site_name" content="{{ $web->meta_title ?? '' }}" />
-    <meta property="og:title" content="{{ $web->meta_title ?? '' }}" />
-    <meta property="og:description" content="{{ $web->meta_description ?? '' }}" />
-    <meta property="og:image" itemprop="image" content="{{asset('/assets/img/me.png')}}" />
+    <meta property="og:title" content="@yield('meta_title', $web->meta_title ?? '')" />
+    <meta property="og:description" content="@yield('meta_description', $web->meta_description ?? '')" />
+    <meta property="og:image" itemprop="image" content="@yield('meta_image', asset('/assets/img/me.png'))" />
     <meta property="og:image:type" content="image/png" />
-    <meta property="og:type" content="website" />
+    <meta property="og:type" content="@yield('og_type', 'website')" />
 
     <meta name="google-site-verification" content="google7362bec73ae7be20.html" />
     <!--<meta name="google-site-verification" content="fRlzd57LNle5y4juUFvSH2-Dj5EcYhFdKSXtxWwVESk" />-->

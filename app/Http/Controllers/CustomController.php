@@ -146,4 +146,14 @@ class CustomController extends Controller
 
         return back()->with('success', 'Pesan Anda telah terkirim. Terima kasih!');
     }
+
+    public function sitemap()
+    {
+        $articles = Article::where('status', 'published')->orderBy('updated_at', 'desc')->get();
+        $web = Website::first();
+
+        $content = view('sitemap', compact('articles', 'web'));
+
+        return response($content)->header('Content-Type', 'text/xml');
+    }
 }

@@ -1,5 +1,12 @@
 @extends('layouts.master')
 
+@section('meta_title', $article->title . ' - ' . ($web->meta_title ?? ''))
+@section('meta_description', Str::limit(strip_tags($article->content), 160))
+@if($article->thumbnail)
+    @section('meta_image', Storage::url($article->thumbnail))
+@endif
+@section('og_type', 'article')
+
 @section('content')
     <header id="header" class="header-top" style="opacity: 1; filter: none;">
         <div class="container">
