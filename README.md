@@ -9,10 +9,12 @@
 </p>
 
 <div align="center">
-  <h3>📊 GitHub Stats</h3>
+  <h3>📊 GitHub Stats & Activity</h3>
   <br>
   <a href="https://github.com/tjahmbeling"><img src="https://awesome-github-stats.azurewebsites.net/user-stats/tjahmbeling?cardType=github&theme=dark&Title=ff0000&Icon=ff0000&Ring=ff0000&fontFamily=Workbench&preferLogin=false" alt="My Awesome Stats" height="150" /></a>
   <a href="https://github.com/tjahmbeling"><img src="https://streak-stats.demolab.com/?user=tjahmbeling&theme=dark&hide_border=true&title_color=ff0000&icon_color=ff0000&ring=ff0000&fire=ff0000" alt="GitHub Streak" height="150" /></a>
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tjahmbeling&bg_color=0d1117&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true&title_color=ff0000" alt="Activity Graph" />
 </div>
 
 <p align="center">
