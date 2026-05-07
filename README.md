@@ -5,11 +5,11 @@
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.gif" alt="Animated divider" />
+  <img src="./assets/red-line.svg" alt="Animated red line" />
 </p>
 
 <div align="center">
-  <h3>📊 GitHub Stats & Activity</h3>
+  <img src="https://readme-typing-svg.demolab.com/?font=Special+Elite&size=24&duration=1&pause=0&repeat=false&color=FF0000&center=true&vCenter=true&width=500&height=40&lines=GitHub+Stats+%26+Activity" alt="GitHub Stats & Activity" />
   <br>
   <a href="https://github.com/tjahmbeling"><img src="https://awesome-github-stats.azurewebsites.net/user-stats/tjahmbeling?cardType=github&theme=dark&Title=ff0000&Icon=ff0000&Ring=ff0000&fontFamily=Workbench&preferLogin=false" alt="My Awesome Stats" height="150" /></a>
   <a href="https://github.com/tjahmbeling"><img src="https://streak-stats.demolab.com/?user=tjahmbeling&theme=dark&hide_border=true&title_color=ff0000&icon_color=ff0000&ring=ff0000&fire=ff0000" alt="GitHub Streak" height="150" /></a>
@@ -18,21 +18,35 @@
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.gif" alt="Animated divider" />
+  <img src="./assets/red-line.svg" alt="Animated red line" />
 </p>
 
 <div align="center">
-  <h3>🛠️ Tech Stack & Tools</h3>
+  <img src="https://readme-typing-svg.demolab.com/?font=Special+Elite&size=24&duration=1&pause=0&repeat=false&color=FF0000&center=true&vCenter=true&width=500&height=40&lines=Tech+Stack+%26+Tools" alt="Tech Stack & Tools" />
   <br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,vue,go,py&theme=dark&perline=5" alt="Tech Stack" />
+  <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=Special+Elite&size=20&duration=1&pause=0&repeat=false&color=FF0000&center=true&vCenter=true&width=500&height=30&lines=Frontend" alt="Frontend" />
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vue&theme=dark&perline=5" alt="Frontend Stack" />
+
+<img src="https://readme-typing-svg.demolab.com/?font=Special+Elite&size=20&duration=1&pause=0&repeat=false&color=FF0000&center=true&vCenter=true&width=500&height=30&lines=Backend+%26+Language" alt="Backend & Language" />
+
+<img src="https://skillicons.dev/icons?i=php,laravel,go,py,next&theme=dark&perline=5" alt="Backend Stack" />
+
+<img src="https://readme-typing-svg.demolab.com/?font=Special+Elite&size=20&duration=1&pause=0&repeat=false&color=FF0000&center=true&vCenter=true&width=500&height=30&lines=Tools+%26+Others" alt="Tools & Others" />
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,mysql&theme=dark&perline=5" alt="Tools" />
+
+</div>
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.gif" alt="Animated divider" />
+  <img src="./assets/red-line.svg" alt="Animated red line" />
 </p>
 
 <div align="center">
-  <h3>📫 Connect With Me</h3>
+  <img src="https://readme-typing-svg.demolab.com/?font=Special+Elite&size=24&duration=1&pause=0&repeat=false&color=FF0000&center=true&vCenter=true&width=500&height=40&lines=Connect+With+Me" alt="Connect With Me" />
   <br>
   <p>
     <a href="https://instagram.com/tjahmbeling"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
@@ -48,7 +62,7 @@
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.gif" alt="Animated divider" />
+  <img src="./assets/red-line.svg" alt="Animated red line" />
 </p>
 
 <div align="center">

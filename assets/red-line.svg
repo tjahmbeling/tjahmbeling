@@ -1,0 +1,29 @@
+<svg width="800" height="20" viewBox="0 0 800 20" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="baseGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff0000" stop-opacity="0" />
+      <stop offset="50%" stop-color="#ff0000" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="#ff0000" stop-opacity="0" />
+    </linearGradient>
+
+    <linearGradient id="scannerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff0000" stop-opacity="0" />
+      <stop offset="50%" stop-color="#ff1111" stop-opacity="1" />
+      <stop offset="100%" stop-color="#ff0000" stop-opacity="0" />
+    </linearGradient>
+    
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2.5" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect x="0" y="9" width="800" height="1" fill="url(#baseGrad)" />
+
+  <rect x="0" y="8" width="200" height="3" fill="url(#scannerGrad)" filter="url(#glow)">
+    <animate attributeName="x" values="-200; 800; -200" dur="4s" repeatCount="indefinite" ease="ease-in-out" />
+  </rect>
+</svg>
