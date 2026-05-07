@@ -1,4 +1,14 @@
-## Halo bre 👋
+<div align="center">
+    <img src="/assets/bg.png" height="200">
+
+  <img src="https://readme-typing-svg.demolab.com/?font=Workbench&size=50&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=Welcome+To+My+Page;Selamat+Datang;Sugeng+Rawuh" alt="Welcome To My Page" />
+</div>
+
+<div align="center">
+  <a href="https://git.io/awesome-stats-card">
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/tjahmbeling?cardType=github&theme=dark&Title=ff0000&Icon=ff0000&Ring=ff0000&fontFamily=Workbench&preferLogin=false" alt="My Awesome Stats" />
+  </a>
+</div>
 
 <!--
 **tjahmbeling/tjahmbeling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
