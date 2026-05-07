@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-  <img src="./assets/red-line.svg" alt="Animated red line" />
+  <img src="./assets/snake-1.svg" alt="Snake Animation Top" />
 </p>
 
 <div align="center">
@@ -19,7 +19,7 @@
 </div>
 
 <p align="center">
-  <img src="./assets/red-line.svg" alt="Animated red line" />
+  <img src="./assets/snake-2.svg" alt="Snake Animation Mid-Top" />
 </p>
 
 <div align="center">
@@ -54,7 +54,7 @@
 </div>
 
 <p align="center">
-  <img src="./assets/red-line.svg" alt="Animated red line" />
+  <img src="./assets/snake-3.svg" alt="Snake Animation Mid-Bot" />
 </p>
 
 <div align="center">
@@ -73,7 +73,7 @@
 </div>
 
 <p align="center">
-  <img src="./assets/red-line.svg" alt="Animated red line" />
+  <img src="./assets/snake-4.svg" alt="Snake Animation Bottom" />
 </p>
 
 <div align="center">
