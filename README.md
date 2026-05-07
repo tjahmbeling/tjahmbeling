@@ -61,15 +61,14 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Workbench&size=24&duration=1&pause=0&repeat=false&color=FF0000&center=true&vCenter=true&width=500&height=40&lines=Connect+With+Me" alt="Connect With Me" />
   <br>
   <p>
-    <a href="https://instagram.com/tjahmbeling"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-    <a href="https://facebook.com/tjahmbeling"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-    <a href="https://x.com/tjahmbeling"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-    <a href="https://t.me/tjahmbeling"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+    <a href="https://www.instagram.com/tjah.mbeling_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+    <a href="https://www.facebook.com/profile.php?id=100070095682946"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+    <a href="https://twitter.com/tjah_mbeling_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   </p>
   <p>
-    <a href="https://threads.net/@tjahmbeling"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" /></a>
-    <a href="https://linkedin.com/in/tjahmbeling"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://tjahmbeling.com"><img src="https://img.shields.io/badge/Website-FF0000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+    <a href="https://www.threads.com/@tjah.mbeling_"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" /></a>
+    <a href="https://www.linkedin.com/in/r-muhammad-agung-wicaksono-274284291"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://tjahmbeling.my.id"><img src="https://img.shields.io/badge/Website-FF0000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
   </p>
 </div>
 
