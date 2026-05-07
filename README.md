@@ -47,7 +47,7 @@
         <img src="https://readme-typing-svg.demolab.com/?font=Workbench&size=20&duration=1&pause=0&repeat=false&color=FF0000&center=true&vCenter=true&width=170&height=50&lines=Tools+%26+Others" alt="Tools & Others" />
       </td>
       <td>
-        <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,mysql,pm2,laragon&theme=dark" alt="Tools" />
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,mysql,postman,sqlite&theme=dark" alt="Tools" />
       </td>
     </tr>
   </table>
