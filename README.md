@@ -1,6 +1,7 @@
 <div align="center">
   <img src="/assets/bg.png" height="200" alt="Background Header">
   <br>
+  <br>
   <img src="https://readme-typing-svg.demolab.com/?font=Workbench&size=50&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=Welcome+To+My+Page;Selamat+Datang;Sugeng+Rawuh" alt="Typing Greeting" />
 </div>
 
