@@ -79,5 +79,3 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=tjahmbeling&label=Profile%20Views&color=ff0000&style=flat-square" alt="Profile Views" />
 </div>
-
-tukar susunan Tech & Stack ke atas, lalu Graphnya ke bawah
